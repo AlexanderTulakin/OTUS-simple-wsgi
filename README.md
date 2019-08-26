@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 
 Пример запуска uWSGI сервера:
 ```
-$ uwsgi --http :8080 --wsgi-file app.py
+$ uwsgi --http :8082 --wsgi-file app.py
 ```
 
 ## Вызов
